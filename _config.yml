@@ -1,7 +1,7 @@
 name: Maaike Hoijtink
 favicon: null
-layout_spectrum: 0.2612111698836088
-typography_spectrum: 0.9695275512058288
+layout_spectrum: 0.25722
+typography_spectrum: 0.26986
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.9827693908009678
-  lightness: 0.1993706696666777
-  saturation: 0.10765783418901265
-  rhythmicContrast: 0.1578758719842881
+  lightness: 0.125
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
