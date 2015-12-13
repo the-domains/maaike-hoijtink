@@ -1,0 +1,28 @@
+name: Maaike Hoijtink
+favicon: null
+layout_spectrum: 0.2612111698836088
+typography_spectrum: 0.9695275512058288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9827693908009678
+  lightness: 0.1993706696666777
+  saturation: 0.10765783418901265
+  rhythmicContrast: 0.1578758719842881
+purpose: []
