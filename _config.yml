@@ -1,29 +1,41 @@
-name: Maaike Hoijtink
-favicon: null
-layout_spectrum: 0.25722
-typography_spectrum: 0.26986
 title: 'Ambachten en eerlijke producten!'
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Maaike Hoijtink
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
   brandStrength: 0.9827693908009678
   lightness: 0.125
   saturation: 0.125
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.4319149
+  brandColors:
+    - '#0D0B0E'
+    - '#FEFFFF'
+    - '#7F4227'
+    - '#CE805D'
+    - '#FFC56E'
+typography_spectrum: 0.2340426
