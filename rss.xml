@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ambachten en eerlijke producten!]]></title>
         <description><![CDATA[Ambachten en eerlijke producten!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maaike-hoijtink/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 07:35:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 07:36:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maaike-hoijtink/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to post images ]]></title>
+            <description><![CDATA[<article><h1>How to post images </h1><p>?</p></article>]]></description>
+            <link>https://thegrid.ai/maaike-hoijtink/how-to-post-images/index.html</link>
+            <guid isPermaLink="false">d23f3ee2-a439-4006-a389-56faf1528f9c</guid>
+            <pubDate>Wed, 27 Jan 2016 07:18:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sallands Goud]]></title>
             <description><![CDATA[<article><h1>Sallands Goud</h1><p>"The place" to learn about honest products and crafts from the heart. </p></article>]]></description>
-            <link>undefinedsallands-goud/index.html</link>
+            <link>https://thegrid.ai/maaike-hoijtink/sallands-goud/index.html</link>
             <guid isPermaLink="false">e52e82ad-7024-4812-9c56-9a7885d54f88</guid>
             <pubDate>Wed, 27 Jan 2016 07:16:42 GMT</pubDate>
         </item>
