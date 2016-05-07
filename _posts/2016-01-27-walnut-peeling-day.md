@@ -1,18 +1,28 @@
 ---
-datePublished: '2016-01-27T07:18:23.709Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: Walnut peeling day.
-dateModified: '2015-12-20T08:03:19.674Z'
+datePublished: '2016-05-07T23:28:28.434Z'
+dateModified: '2016-05-07T23:28:09.065Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-27-walnut-peeling-day.md
-published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: walnut-peeling-day/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1463036e-9929-48a2-b0f6-35707cc68766.jpg)
+
 Walnut peeling day.
 
 December 12th 2015\. Day one of the new season of walnut peeling and making the most delicious oil from pure walnuts. 
